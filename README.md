@@ -1,4 +1,6 @@
-# Ex No. 3- Implementation of Exact Inference Method of Bayesian Network
+# EXPERIMENT-3 
+# DATE:13/08/2023
+# Implementation of Exact Inference Method of Bayesian Network
 
 ## Aim:
 To implement the inference Burglary P(B| j,⥗m) in alarm problem by using Variable Elimination method in Python.
